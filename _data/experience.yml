@@ -1,19 +1,46 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Chinese University of Hong Kong, Shenzhen (Shenzhen, China)
+  position: Bioinformatics master student (full time)
+  duration: September, 2023 -- Present
+  summary: I have taken courses such as "Theories and Algorithms in Bioinformatics", "Statistical Methods for Biomedical Research", "Machine Learning for Biomedical Research", "Computational Molecular Modeling and Design", and so on. Besides, I have been running a short research project about "deep learning-based molecular docking tools" under supervision of Prof. Hajime Hirao.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Roc Rock Biotechnology Company (Shenzhen, China)
+  position: Member of bioinformatics team and clinical affairs team
+  duration:  December, 2021 -- August, 2023
+  summary: I worked for this company on bioinformatics and clinical affairs involved with immune cell therapy.
+
+- company: Weikemeng Bioincloud Technology Company (Shenzhen, China)
+  position: Bioinformatics operator
+  duration: March, 2020 -- November, 2021
+  summary: I ran Linux programs to analyze microbiomics (16S rRNA sequencing, meta-genomics sequencing) data. Besides, I wrote python programs to perform pipeline analysis for bacterial genome, prokaryotic and eukaryotic reference-based transcriptome sequencing data.
+
+- company: Petroleum Microbiology Laboratory of Northwest University (Xi'an, China)
+  position: Research assistant
+  duration: March, 2019 -- January, 2020
+  summary: I guided the young postgraduate students to do wet-lab operation such as microbial isolation, purification, culturing, plasmid construction, bacterial gene knockout, PCR and so on. Besides, I participated in some bacterial 16SrRNA sequencing and phage sequencing projects. 
+
+- company: Institute of Microbiology, Chinese Academy of Sciences (Beijing, China)
+  position: Microbiology master student (full time)
+  duration: September, 2016 -- January, 2019
+  summary: In the first year of graduate school, I participated in the inter-disciplinary program of the College of Computer Science, and began to learn programming. In the second and third years of postgraduate study, I explored the relationship between Pseudomonas aeruginosa extracellular aminopeptidase and quorum sensing, and contributed to the publication of two articles in English academic journals under supervision by PI Luyan MA. 
+
+- company: Aisaibo Biotechnology Company (Tianjin, China)
+  position: Intern (full time)
+  duration: June, 2016 -- August, 2016
+  summary: I learned about plant tissue culturing bio-technology, of which the team leader was Senior engineer Ding Jingzhi.
+
+- company: Nankai University (Tianjin, China)
+  position: Bio-science undergraduate student (full time)
+  duration: September, 2012 -- May, 2016
+  summary: I was selected into Boling College of Nankai University (National "Training Pilot Program for Top Students of Basic Disciplines"), and won the Gongneng Scholarship of Nankai University, Merit Student Honor of Nankai University. I participated in the scientific research training project of “Determination and comparison of polycyclic aromatic hydrocarbons content in the plants of Tianjin Binhai New District”, of which the advisor was Prof Gu Song. I took short research course of microbial fermentation engineering exploration experiment on microbial desulfurization topic, of which the instructor was Prof. Li Guoqiang. As a senior student, I gained postgraduate admission qualification, and was awarded the scholarship of Chinese Academy of Sciences for my graduation thesis "Construction of Pseudomonas aeruginosa lasI and rhlI deletion mutant strains" which was done in Institute of Microbiology of Chinese Academy of Sciences in Beijing, China, of which the extramural supervisor was PI Luyan Ma and intramural advisor was Prof. Qiao Mingqiang.
+
+- company: Publication
+  position: 
+  duration: 
+  summary: <ol>   <li>Zhao, T., Zhang, J., <b> Tang, M., </b> Ma, L. Z., & Lei, X. (2019). Development of an effective fluorescence probe for discovery of aminopeptidase inhibitors to suppress biofilm formation. The Journal of Antibiotics, 72(6), 461-468. </li>  <li>JWu, H., Wang, D., <b> Tang, M., </b> & Ma, L. Z. (2019). The advance of assembly of exopolysaccharide Psl biosynthesis machinery in Pseudomonas aeruginosa. MicrobiologyOpen, 8(10), e857. </li>  <li>Guo, G., Tian, F., Zhao, Y., <b> Tang, M., </b> Liu, W., Liu, C., ... & Wang, S. (2019). Aerobic decolorization and detoxification of Acid Scarlet GR by a newly isolated salt-tolerant yeast strain Galactomyces geotrichum GG. International Biodeterioration & Biodegradation, 145, 104818. </li>  </ol> 
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+
+
+
+
